@@ -1,0 +1,12 @@
+# def adder(x):
+#     def wrapper(y):
+#         return x+y
+#     return wrapper
+# adder5=adder(5)
+# print(adder5(adder5(6)))
+
+
+k=1000
+while k>1:
+    print(k)
+    k=k/2
